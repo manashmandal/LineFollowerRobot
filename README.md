@@ -1,2 +1,6 @@
-# LineFollowerRobot
-Arduino based LFR with the libraries!
+# Line Follower Robot
+Arduino based LFR
+
+## Dependency
+
+Motor library which is being included with the following program

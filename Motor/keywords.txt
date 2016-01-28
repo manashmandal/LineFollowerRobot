@@ -1,0 +1,33 @@
+###################################
+# Syntax Coloring Map For Motor
+###################################
+
+###################################
+# Datatypes (KEYWORD1)
+###################################
+
+Motor	KEYWORD1
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+go	KEYWORD2
+print	KEYWORD2
+
+uint	KEYWORD2
+
+
+###################################
+# Constants (LITERAL1)
+###################################
+motorPins	LITERAL1
+motorpins	LITERAL1
+FORWARD	LITERAL1
+BACKWARD	LITERAL1
+LEFT	LITERAL1
+RIGHT	LITERAL1
+NOWHERE	LITERAL1
+Direction	LITERAL1
+FRONT_PIN	LITERAL1
+BACK_PIN	LITERAL1
